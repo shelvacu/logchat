@@ -1,0 +1,10 @@
+name: logchat
+version: 0.0.1
+
+authors:
+  - Shelvacu <logchat@shelvacu.com>
+
+dependencies:
+  crt:
+    github: maiha/crt.cr
+    version: 0.3.0
