@@ -22,4 +22,6 @@ To use:
 
 ### Security?
 
-The extremely secure Base64 encryption algorithm is used for end-to-point-to-point-to-end encryption.
+The extremely secure Base64 encryption algorithm is used for transmitting messages.
+
+Also this method is so ~~bizarre~~ unique that you could also call it security by obscurity.
